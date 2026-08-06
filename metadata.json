@@ -1,0 +1,6 @@
+{
+  "name": "Nilufar's Birthday Post",
+  "description": "A sophisticated and beautiful birthday celebration post for Nilufar Rofitjonova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

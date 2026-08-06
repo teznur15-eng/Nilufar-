@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --font-playfair: "Playfair Display", serif;
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+.font-playfair {
+  font-family: var(--font-playfair);
+}
+
+.font-sans {
+  font-family: var(--font-sans);
+}
